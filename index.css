@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: helvetica;
+    color: #b264ac;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #8e4488
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #2fe352;
+}
+
+
+#page-body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
